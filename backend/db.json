@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone xr",
+      "price": "3100.50"
+    },
+    {
+      "id": 2,
+      "name": "Notebook ",
+      "price": "8547.56"
+    }
+  ]
+}
